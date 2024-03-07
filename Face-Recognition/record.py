@@ -17,7 +17,7 @@ while True:
         )
         cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 3)
     cv2.imshow("Capturing", frame)
-    if a > 29:
+    if a > 49:
         break
 
 video.release()
