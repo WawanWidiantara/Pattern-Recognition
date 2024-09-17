@@ -1,5 +1,5 @@
 *.jpg
 *.rar
-**/dataset/
-**/data/
-**/DataSet_01/
+Better-Sirekap/dataset/
+Face-Recognition/data/
+Better-Sirekap/DataSet_01/
